@@ -1,0 +1,1 @@
+Katalog a tracker retro konzolí a her (RetroKatalog)
