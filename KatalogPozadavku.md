@@ -1,8 +1,5 @@
 # Technická dokumentace – Katalog požadavků softwarového projektu
-**Projekt:** RetroKatalog – Katalog a tracker retro konzolí a her  
-**Autor:** Student SPŠ Liberec  
-**Předmět:** Technická dokumentace (TD)  
-**Vyučující:** pan Erlebach  
+**Projekt:** RetroKatalog – Katalog a tracker retro konzolí a her   
 **Datum:** 27. 5. 2026  
 
 ---
